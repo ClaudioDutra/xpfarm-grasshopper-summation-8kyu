@@ -1,0 +1,28 @@
+# Notes
+
+**Labels**  
+✅ done  
+🚧 WIP  
+❌ ERROR  
+TODO:
+
+## Pomodoro 1  
+
+## Setting up a new template repository
+
+1. Create the directory `mkdir <your name>-nodejs-template`  
+1. Open the directory in VS Code `code <your name>-nodejs-template`  
+1. Setup Git `git init`  
+1. Setup the Node package `npm init`  
+    1. When prompted for the test command enter `jest --coverage --verbose`
+1. Install Jest as a dev package `npm install jest --save-dev`
+1. Setup your test watcher in your package.json `"test:watch": "npm run test -- --watchAll",`
+1. Create a test file with a description and test
+1. Create a dummy source file
+1. Create a README.md file  
+1. Create a NOTES.md file  
+    1. Put in basic details of what is needed  
+1. Create a .gitignore, which ignores your node_modules and coverage directory at the very least
+1. Commit your code
+1. Create your repository on <https://github.ibm.com/cio-london-xp-farm> making sure that it is public
+1. 
