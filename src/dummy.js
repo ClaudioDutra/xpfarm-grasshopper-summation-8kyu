@@ -1,5 +1,5 @@
-const dummy = () => 'This is a dummy';
+const dummy = () => "This is a dummy";
 
 module.exports = {
-    dummy
+  dummy,
 };
