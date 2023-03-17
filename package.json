@@ -28,5 +28,9 @@
     "husky": "^8.0.3",
     "jest": "^29.3.1",
     "prettier": "^2.8.4"
+  },
+  "lint-staged": {
+    "*.js": "npm run eslint:fix",
+    "*.{js,css,md,yml,json,code-snippets}": "npm run prettier:fix"
   }
 }
