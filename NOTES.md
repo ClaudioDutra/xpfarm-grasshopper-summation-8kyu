@@ -24,4 +24,4 @@ TODO:
 - [x] Setup empty function.
 - [x] Implement the test cases.
 - [x] Implement the function logic.
-- [ ] Refactor the function.
+- [x] Refactor the function.
