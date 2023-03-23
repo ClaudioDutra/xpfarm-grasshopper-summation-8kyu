@@ -1,7 +1,7 @@
 {
-  "name": "white-belt-template",
+  "name": "grasshopper-summation",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a kata ranked as 8 kyu",
   "main": "index.js",
   "scripts": {
     "eslint:fix": "eslint --cache --fix",
