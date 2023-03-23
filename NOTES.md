@@ -21,7 +21,7 @@ TODO:
 
 ## Pomodoro 1
 
-- [ ] Setup empty function.
-- [ ] Implement the test cases.
-- [ ] Implement the function logic.
+- [x] Setup empty function.
+- [x] Implement the test cases.
+- [x] Implement the function logic.
 - [ ] Refactor the function.
